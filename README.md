@@ -1,2 +1,2 @@
-# my-scrips
-Short scripts
+## Scrips
+Short scripts I wrote for studying
